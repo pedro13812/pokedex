@@ -30,3 +30,18 @@ _you **can** combine them_
 3. Item 3
     1.Item 3a
     2.Item 3b
+
+## Imagens
+
+! [This is an alt text.] (/image/sample.webp "This is a sample image. ")
+
+## Links
+
+You may using [ Markdown Live Preview] (hhttps://markdownlivepreview.com/).
+
+## Blockquotes
+
+> Markdown is a lightweight markup language with plain-textformatting
+> syntax,created in 2004 by john Gruder with Aaron Swartz.
+>
+> > Markdown is often used to format readme files, for writing messagens in online discussion forums, and to create rich text using a plain text editor.
